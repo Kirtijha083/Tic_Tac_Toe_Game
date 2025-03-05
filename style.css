@@ -1,0 +1,21 @@
+/* google font import link */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(37, 0, 37);
+    color: whitesmoke;
+    height: 65px;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: "Roboto", sans-serif;
+}
+
+nav ul{
+    list-style-type: none;
+}
