@@ -12,11 +12,16 @@ This project is a Tic-Tac-Toe Game built using HTML, CSS, and JavaScript. It wil
 
 3. **JavaScript:** Implementing game logic and interactivity
 
-# 🎯 Today's Target
+# 🎯 Day 1st Target  
 
-**Creating Navbar:** Designing and structuring the navigation bar.
+**Creating Navbar:** Designing and structuring the navigation bar.  
 
-**Game Skeleton & Styling:** Setting up the basic game layout and applying initial styles.
+**Game Skeleton & Styling:** Setting up the basic game layout and applying initial styles.  
+
+# 🎯 Day 2nd Target  
+
+**Adding JavaScript Logic:** Implementing the game logic using JavaScript.  
+
 
 # 🔜 Future Implementations
 
