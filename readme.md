@@ -20,8 +20,11 @@ This project is a Tic-Tac-Toe Game built using HTML, CSS, and JavaScript. It wil
 
 # 🎯 Day 2nd Target  
 
-**Adding JavaScript Logic:** Implementing the game logic using JavaScript.  
+**Adding some JavaScript Logic:** Implementing the game logic using JavaScript.  
 
+# 🎯 Day 3rd Target  
+
+**Adding some more JavaScript Logic:** Implementing the game logic using JavaScript.  
 
 # 🔜 Future Implementations
 
