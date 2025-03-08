@@ -36,6 +36,13 @@ wins.forEach(e => {
 }
 
 // Game logic
+
+music.play();
+document.addEventListener("click", () => {
+    music.play().catch(error => console.log("Autoplay blocked:", error));
+}, { once: true });
+
+music.volume = 1.0;
 let boxes = document.getElementsByClassName("box");
 Array.from(boxes).forEach(element => {
     let boxtext = element.querySelector(".boxtext");
