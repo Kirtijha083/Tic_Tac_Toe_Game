@@ -30,6 +30,10 @@ This project is a Tic-Tac-Toe Game built using HTML, CSS, and JavaScript. It wil
 
 **Adding More JavaScript Logic:** Implementing a GIF animation after the game is over and playing music using JavaScript. 
 
+# 🎯 Day 5th Target  
+
+**Adding More JavaScript Logic:** Implementing functions in the reset button, enhancing animations with reset-based functionality, and applying media queries for responsiveness on an 800px screen size. 🚀
+
 # 🔜 Future Implementations
 
 1. Game logic for player moves and win conditions.
