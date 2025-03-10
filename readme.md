@@ -34,6 +34,8 @@ This project is a Tic-Tac-Toe Game built using HTML, CSS, and JavaScript. It wil
 
 **Adding More JavaScript Logic:** Implementing functions in the reset button, enhancing animations with reset-based functionality, and applying media queries for responsiveness on an 800px screen size. 🚀
 
+**Adding More JavaScript Logic:** Implementing line animation on win and enhancing game functionalities with additional improvements. 🚀
+
 # 🔜 Future Implementations
 
 1. Game logic for player moves and win conditions.
